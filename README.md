@@ -1,1 +1,2 @@
-# plinkoo
+# synchronousBallMovement
+Ball moving synchronously
